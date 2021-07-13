@@ -1,0 +1,1 @@
+document.querySelector("#pricing > div > div > div:nth-child(2) > div > button")
